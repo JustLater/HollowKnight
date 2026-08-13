@@ -10,5 +10,3 @@ Architected and developed a self-contained game module for the "Grimm's fight" e
 
 
 
-<img width="639" height="343" alt="image" src="https://github.com/user-attachments/assets/a38a2eb3-7792-4c40-ac2e-1b3aefaa06fc" />
-
